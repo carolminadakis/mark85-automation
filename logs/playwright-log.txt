@@ -1,0 +1,57 @@
+{"level":30,"time":"2023-06-19T20:07:42.086Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Listening on 58257"}
+{"level":30,"time":"2023-06-19T20:07:42.538Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-19T20:07:42.539Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-19T20:07:42.542Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-19T20:07:42.542Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-19T20:07:42.546Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-06-19T20:07:43.146Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-06-19T20:07:43.153Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-06-19T20:07:43.154Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-06-19T20:07:43.173Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Changed active context"}
+{"level":30,"time":"2023-06-19T20:07:43.448Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Video path: undefined"}
+{"level":30,"time":"2023-06-19T20:07:43.448Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Changed active page"}
+{"level":30,"time":"2023-06-19T20:07:44.222Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method newPage"}
+{"level":30,"time":"2023-06-19T20:07:44.226Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-06-19T20:07:44.226Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-06-19T20:07:44.261Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-06-19T20:07:44.265Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method getText"}
+{"level":30,"time":"2023-06-19T20:07:44.265Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-06-19T20:07:44.292Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Retrieved text for element css=h1 containing Faça seu cadastro"}
+{"level":30,"time":"2023-06-19T20:07:44.292Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method getText"}
+{"level":30,"time":"2023-06-19T20:07:44.295Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-06-19T20:07:44.295Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2023-06-19T20:07:44.319Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method fillText"}
+{"level":30,"time":"2023-06-19T20:07:44.325Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-06-19T20:07:44.325Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2023-06-19T20:07:44.353Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method fillText"}
+{"level":30,"time":"2023-06-19T20:07:44.357Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-06-19T20:07:44.357Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2023-06-19T20:07:44.382Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method fillText"}
+{"level":30,"time":"2023-06-19T20:07:44.385Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method click"}
+{"level":30,"time":"2023-06-19T20:07:44.386Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Strict mode is enabled, find Locator with id=buttonSignup in page."}
+{"level":30,"time":"2023-06-19T20:07:44.466Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method click"}
+{"level":30,"time":"2023-06-19T20:07:49.480Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-19T20:07:49.484Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-19T20:07:49.486Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-19T20:07:49.491Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-19T20:07:49.494Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Changed active context"}
+{"level":30,"time":"2023-06-19T20:07:49.494Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Changing current active page"}
+{"level":30,"time":"2023-06-19T20:07:49.494Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Changed active page"}
+{"level":30,"time":"2023-06-19T20:07:49.502Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-19T20:07:49.509Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-19T20:07:49.512Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-06-19T20:07:49.512Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-06-19T20:07:49.515Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-06-19T20:07:49.515Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-06-19T20:07:49.520Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-19T20:07:49.524Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-19T20:07:49.529Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Changed active context"}
+{"level":30,"time":"2023-06-19T20:07:49.530Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Changing current active page"}
+{"level":30,"time":"2023-06-19T20:07:49.530Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Changed active page"}
+{"level":30,"time":"2023-06-19T20:07:49.534Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-06-19T20:07:49.558Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Removed page=2bb77fc1-078c-4a7e-9db1-436f20251f18 from context=c0a73638-859e-423b-87e2-8a5376888d9e page stack"}
+{"level":30,"time":"2023-06-19T20:07:49.602Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-06-19T20:07:49.608Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-19T20:07:49.609Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-06-19T20:07:49.686Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-06-19T20:07:49.914Z","pid":16060,"hostname":"GalaxyBook3-Carol","msg":"End of node method closeAllBrowsers"}
